@@ -17,5 +17,5 @@ class BonusDrink
   # 最初に100本購入した場合、トータルで何本飲めるか
   self.total_count_for(100)
   
-  
+
 end
